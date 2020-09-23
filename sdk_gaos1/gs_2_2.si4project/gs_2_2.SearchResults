@@ -1,0 +1,3 @@
+---- ioctl!= 0,EthName Matches (2 in 1 files) ----
+getipJudge_namePara in sAuxiliary.c (Z:\gaosi\sdk_gaos1\zj_sdk\src\sysAuxiliary\src) :         DPRI_INFO("ioctl!= 0,EthName:%s\n",name);
+getipJudge_bynameRetIPc in sAuxiliary.c (Z:\gaosi\sdk_gaos1\zj_sdk\src\sysAuxiliary\src) :         DPRI_INFO("ioctl!= 0,EthName:%s\n",name);
