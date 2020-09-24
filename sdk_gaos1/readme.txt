@@ -10,3 +10,5 @@ arm-hisiv100nptl-linux-g++   -O0 -Wall -g3 -ggdb -o camera sdk_main.c  -I../incl
 666666
 7.change two
 8.branch test 77777
+
+9.master 8888 °¤´òµÄ
