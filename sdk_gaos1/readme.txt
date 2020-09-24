@@ -8,3 +8,4 @@ arm-hisiv100nptl-linux-g++   -O0 -Wall -g3 -ggdb -o camera sdk_main.c  -I../incl
 4.rollback  test.
 5.workspace--44.
 666666
+7.change two
