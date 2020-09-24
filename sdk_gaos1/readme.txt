@@ -16,3 +16,5 @@ arm-hisiv100nptl-linux-g++   -O0 -Wall -g3 -ggdb -o camera sdk_main.c  -I../incl
 
 11.fenzhi,no delete
 
+13.aaaa
+
